@@ -4,8 +4,7 @@
 
 To use this folder, click the green "Code" button", then "Download ZIP". Move the downloaded folder to where you want to work on your own computer, and then modify it to suit.
 
-  git config --global user.email "navya.hooda@mail.utoronto.ca"
-  git config --global user.name "Navya Hooda"
+  
 
 
 ## File Structure
